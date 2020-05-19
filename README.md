@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+I'm seheeAn of KyungHee University.
+I'm majoring in Software Convergence.
